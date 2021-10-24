@@ -1,0 +1,39 @@
+You Have Selected Hyundai Xcent
+
+
+
+Price: Rs. 5.76 Lakhs onwards
+Mileage: 16.1 to 24.4 kmpl
+Engine:	1186 to 1197 cc
+Transmission: Manual and Automatic
+FuelType: Petrol and Diesel
+Seating Capacity: 5
+
+Variants	
+E
+1197 cc, Petrol, Manual, 19.1 kmpl
+₹ 5.76 Lakhs
+S
+1197 cc, Petrol, Manual, 19.1 kmpl
+₹ 6.45 Lakhs
+E CRDi
+1186 cc, Diesel, Manual, 24.4 kmpl
+₹ 6.68 Lakhs
+SX
+1197 cc, Petrol, Manual, 19.1 kmpl
+₹ 7.07 Lakhs
+S AT
+1197 cc, Petrol, Automatic, 16.1 kmpl
+₹ 7.36 Lakhs
+S CRDi
+1186 cc, Diesel, Manual, 24.4 kmpl
+₹ 7.44 Lakhs
+SX (O)
+1197 cc, Petrol, Manual, 19.1 kmpl
+₹ 7.85 Lakhs
+SX CRDi
+1186 cc, Diesel, Manual, 24.4 kmpl
+₹ 8.01 Lakhs
+SX (O)CRDi
+1186 cc, Diesel, Manual, 24.4 kmpl
+₹ 8.78 Lakhs
